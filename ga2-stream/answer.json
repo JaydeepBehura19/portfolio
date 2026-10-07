@@ -1,1 +1,1 @@
-{"A":{"text":"Report job-6d99edbe: café\nReady ✓","complete":true,"error":null},"B":{"text":"Partial job-6d99edbe","complete":false,"error":null},"C":{"text":"Draft job-6d99edbe","complete":false,"error":"model unloaded"}}
+{"A":{"text":"Report job-6d99edbe: caf\u00e9\nReady \u2713","complete":true,"error":null},"B":{"text":"Partial job-6d99edbe","complete":false,"error":null},"C":{"text":"Draft job-6d99edbe","complete":false,"error":"model unloaded"}}
